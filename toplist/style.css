@@ -1,0 +1,30 @@
+element.style {
+}
+
+.app {
+	display: flex;
+}
+
+* {
+   	outline: 1px solid red !important;
+   	font-family: sans-serif;
+   	margin: 10px 10px 10px 10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+} 
+
+.screenshot {
+	max-width: 460px;	
+}
+
+.description {
+	max-width: 705px;
+	color: #7C8B88;
+}
+
+h1 {
+	background-color: #33BEBE;
+	color: white;
+}
